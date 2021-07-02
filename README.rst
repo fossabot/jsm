@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foceanection%2Fjsm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foceanection%2Fjsm?ref=badge_shield)
+
 Overview
 ========
 
@@ -154,3 +156,7 @@ BrandData::
   name      # 銘柄名
   info      # 銘柄情報
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foceanection%2Fjsm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foceanection%2Fjsm?ref=badge_large)
